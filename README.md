@@ -1,5 +1,9 @@
-### Hi there 👋
+## Välkommen till profilen för Sally Nielsen
 
+Jag är 27år och studerar just nu på Mittuniversitetet för att bli webbutvecklare med fokus på backend.
+Denna Github kommer att användas i utbildningssyfte, för att dela källkod gjorda för uppgifter i kurser.
+
+📫 Jag kan nås på mail här - sani1904@student.miun.se
 <!--
 **nielsensw/nielsensw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
