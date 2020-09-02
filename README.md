@@ -1,5 +1,6 @@
-## Välkommen till profilen för Sally Nielsen
+# Välkommen till profilen för Sally Nielsen
 
+### Kort info om detta konto
 Jag är 27år och studerar just nu på Mittuniversitetet för att bli webbutvecklare med fokus på backend.
 Denna Github kommer att användas i utbildningssyfte, för att dela källkod gjorda för uppgifter i kurser.
 
